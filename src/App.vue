@@ -3,7 +3,7 @@
 
   const questions = ref([
     {
-      question: 'What is Artisinal Fisheries?',
+      question: 'What is VueJs?',
       answer: 0,
       options: [
         ' A frontend framework',
