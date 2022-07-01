@@ -72,8 +72,8 @@
 
 <template>
   <main class="app">
-    <h1> FPT WEEKLY TEST</h1>
-    <h3>FPT 440</h3>
+    <h1> QUIZ APP</h1>
+    
 
     <section class="quiz" v-if="!quizCompleted">
 
@@ -152,11 +152,6 @@
   h1{
     font-size: 2rem;
     margin-bottom: 2rem;
-  }
-
-  h3{
-    font-size: 1rem;
-    margin-bottom: 1rem;
   }
 
   .quiz{
